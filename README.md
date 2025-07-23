@@ -5,7 +5,7 @@
 
 📫 How to reach me:
 - Drop me a DM?
-- Discord: solidwatur
+- Discord: dragussy
 
 <!---
 spicysolsa/spicysolsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
